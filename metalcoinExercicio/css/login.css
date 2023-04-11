@@ -1,0 +1,50 @@
+body{
+    background-image: url(../img/fundologin.jpg);
+    background-size: 2000px;
+    margin: 0px;
+}
+
+.logo{
+    position: absolute;
+    width: 159px;
+    height: 41px;
+    left: 25px;
+    top: 24px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px; 
+    color: #FFFFFF;
+}
+
+.tela{
+    box-sizing: border-box;
+
+position: absolute;
+width: 307px;
+height: 531px;
+left: 987px;
+top: 182.5px;
+
+background: rgba(36, 162, 48, 0.25);
+border: 2px solid #000000;
+border-radius: 45px;
+}
+
+.textlogin{
+    position: fixed;
+    width: 75px;
+    height: 20px;
+    left: 1047px;
+    top: 344px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+
+}
+
